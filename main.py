@@ -9,6 +9,7 @@ from email.mime.text import MIMEText
 import datetime
 now = datetime.datetime.now()
 
+#Creating content
 content = ''
 
 def extract_news(url):
